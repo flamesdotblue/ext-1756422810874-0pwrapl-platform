@@ -1,5 +1,5 @@
 import React from 'react';
-import Spline from 'https://esm.sh/@splinetool/react-spline?external=react,react-dom';
+import Spline from '@splinetool/react-spline';
 
 export default function Hero3D() {
   return (
